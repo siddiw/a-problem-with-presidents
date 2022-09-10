@@ -1,11 +1,11 @@
 """
 The file contains the function that processes the input data
 """
-from datetime import datetime
-import pandas
 import numpy
-import matplotlib.pyplot as plt
+import pandas
+from datetime import datetime
 import dataframe_image as dfi
+import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 def processData():
